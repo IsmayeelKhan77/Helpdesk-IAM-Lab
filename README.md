@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project is a hands-on home lab I built from scratch to simulate a real enterprise IT environment. The goal was to demonstrate practical skills relevant to both Helpdesk and Identity & Access Management (IAM) roles. Everything was built on my personal PC using free tools and evaluation software — no cloud, no shortcuts.
+This project is a hands-on home lab I built from scratch to simulate a real enterprise IT environment. The goal was to demonstrate practical skills relevant to both Helpdesk and Identity & Access Management (IAM) roles. Everything was built on my personal PC using free tools and evaluation software — no cloud, no shortcuts.  
 
 ---
 
@@ -20,16 +20,16 @@ This project is a hands-on home lab I built from scratch to simulate a real ente
 - Active Directory Users and Computers
 - Group Policy Management
 - DNS Server
-
+   
 ---
 
 ## Project Structure
-
-The project is divided into 3 checkpoints:
-
+    
+The project is divided into 3 checkpoints: 
+   
 **Checkpoint 1 & 2 — Lab Setup & Active Directory Core**
 Built the entire lab environment from scratch. Installed Windows Server 2022, promoted it to a Domain Controller, created a domain (Project.local), built 4 Organizational Units, created 15 users, organized them into Security Groups and applied a Password Policy GPO.
-
+    
 **Checkpoint 3 — Helpdesk & IAM Simulation Scenarios**
 Simulated 6 real world scenarios covering the most common Helpdesk and IAM tasks including password resets, account lockouts, new employee onboarding, department transfers, employee terminations and a quarterly access review.
 
