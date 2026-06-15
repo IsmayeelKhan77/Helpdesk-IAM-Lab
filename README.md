@@ -51,11 +51,11 @@ Created professional documentation for all work done including a full Quarterly 
 
 ## Documents
 
-- [Lab Setup & Active Directory Documentation](Helpdesk-IAM-Lab-Setup-and-Active-Directory.pdf)
-- [Helpdesk & IAM Simulation Scenarios](Helpdesk-IAM-Simulation-Scenarios.pdf)
+- [Lab Setup & Active Directory Documentation](Helpdesk-IAM-Lab-Setup-and-Active-Directory.pdf)                                                           
+- [Helpdesk & IAM Simulation Scenarios](Helpdesk-IAM-Simulation-Scenarios.pdf)                                                                                       
 - [Quarterly Access Review Report](Quarterly-Access-Review-Report.pdf)
-
----
+                                                                  
+---                    
 
 ## Key Concepts Demonstrated
 
