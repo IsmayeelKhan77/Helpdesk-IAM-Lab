@@ -5,7 +5,7 @@
 **Environment:** Windows Server 2022 | Active Directory | VMware Workstation 17
   
 ---
-
+          
 ## Overview
 
 This project is a hands-on home lab I built from scratch to simulate a real enterprise IT environment. The goal was to demonstrate practical skills relevant to both Helpdesk and Identity & Access Management (IAM) roles. Everything was built on my personal PC using free tools and evaluation software — no cloud, no shortcuts.  
