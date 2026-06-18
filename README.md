@@ -20,7 +20,7 @@ This project is a hands-on home lab I built from scratch to simulate a real ente
 - Active Directory Users and Computers                                
 - Group Policy Management                                    
 - DNS Server
-   
+
 ---
 
 ## Project Structure
@@ -38,7 +38,7 @@ Created professional documentation for all work done including a full Quarterly 
 
 ---
 
-## Scenarios Covered
+## Scenarios Covered          
 
 - Password Reset
 - Account Lockout — policy configuration and resolution
