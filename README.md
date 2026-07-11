@@ -38,7 +38,7 @@ Created professional documentation for all work done including a full Quarterly 
 
 ---
 
-## Scenarios Covered          
+## Scenarios Covered         
 
 - Password Reset
 - Account Lockout — policy configuration and resolution
