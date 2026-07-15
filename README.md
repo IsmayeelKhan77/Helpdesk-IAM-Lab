@@ -21,7 +21,7 @@ This project is a hands-on home lab I built from scratch to simulate a real ente
 - Group Policy Management                                                                                    
 - DNS Server                                                                                                    
 
----
+---  
 
 ## Project Structure
     
