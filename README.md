@@ -14,7 +14,7 @@ This project is a hands-on home lab I built from scratch to simulate a real ente
                                   
 ## Tools & Technologies Used  
                           
-- VMware Workstation 17 Player                                        
+- VMware Workstation 17 Player                                                                      
 - Windows Server 2022 Standard Evaluation                              
 - Active Directory Domain Services (AD DS)                                          
 - Active Directory Users and Computers                                                                                                                                         
