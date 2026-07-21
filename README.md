@@ -19,7 +19,7 @@ This project is a hands-on home lab I built from scratch to simulate a real ente
 - Active Directory Domain Services (AD DS)                    
 - Active Directory Users and Computers                                                                                                                  
 - Group Policy Management                                                                                    
-- DNS Server                                                                                                      
+- DNS Server                                                                                 
 
 ---   
 
