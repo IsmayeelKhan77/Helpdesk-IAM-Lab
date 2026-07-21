@@ -18,7 +18,7 @@ This project is a hands-on home lab I built from scratch to simulate a real ente
 - Windows Server 2022 Standard Evaluation                              
 - Active Directory Domain Services (AD DS)                                          
 - Active Directory Users and Computers                                                                                                                                         
-- Group Policy Management                                                                                    
+- Group Policy Management                                                                                      
 - DNS Server                                                                                 
 
 ---   
