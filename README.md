@@ -12,7 +12,7 @@ This project is a hands-on home lab I built from scratch to simulate a real ente
 
 ---                        
                                   
-## Tools & Technologies Used  
+## Tools & Technologies Used                                                                             
                           
 - VMware Workstation 17 Player                                                                      
 - Windows Server 2022 Standard Evaluation                              
